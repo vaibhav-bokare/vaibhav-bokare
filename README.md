@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shivakumar139/shivakumar139/assets/52816688/c72d77a2-ce80-4153-bdfe-3f4c5f473555" width="400"/>
+ <img src="https://raw.githubusercontent.com/vaibhav-bokare/vaibhav-bokare/main/assets/banner.png" />
 </p>
 
 ---
@@ -77,15 +77,11 @@
 ## 🤖 AI Tools I Use
 
 <p align="left">
-  <!-- Cursor (no official icon, using VSCode as proxy) -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-
-  <!-- ChatGPT -->
-  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
-
-  <!-- Generic AI tools (clean fallback icons) -->
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/robot.png" height="40"/>
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-2d2d2d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-Code-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windsurf-AI%20Editor-3b82f6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-8b5cf6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10a37f?style=for-the-badge"/>
 </p>
 
 ---
