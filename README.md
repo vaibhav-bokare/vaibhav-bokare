@@ -4,8 +4,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-bokare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/vaibhav-bokare?label=Followers&style=social" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-bokare&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/vaibhav-bokare?label=Followers&style=social" />
 </p>
 
 <p align="center">
@@ -56,8 +56,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
+  <a href="mailto:bokarevk2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bokarevk2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/vaibhav-bokare/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Bokare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -66,7 +69,19 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,docker,git,postman,redux,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,postgresql,sqlite,prisma,docker,git,postman,redux,python" />
+</p>
+
+---
+
+## 🤖 AI Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-Code-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windsurf-AI%20Editor-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
