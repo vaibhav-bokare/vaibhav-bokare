@@ -57,10 +57,10 @@
 
 <p align="left">
   <a href="mailto:bokarevk2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bokarevk2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-bokare/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Bokare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
@@ -77,11 +77,15 @@
 ## 🤖 AI Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-Code-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windsurf-AI%20Editor-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
+  <!-- Cursor (no official icon, using VSCode as proxy) -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+
+  <!-- ChatGPT -->
+  <img src="https://skillicons.dev/icons?i=ai" height="40"/>
+
+  <!-- Generic AI tools (clean fallback icons) -->
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/robot.png" height="40"/>
 </p>
 
 ---
